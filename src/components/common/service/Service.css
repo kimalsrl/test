@@ -1,0 +1,15 @@
+.service{
+  font-size: 40px;
+}
+
+#photo {
+    margin-left: 50%;
+    margin-top: 50px;
+}
+
+#order{
+    width: 100px;
+    height: 50px;
+    margin-left: 50%;
+    margin-top: 20px;
+}

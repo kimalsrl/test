@@ -1,0 +1,33 @@
+#bigbox {
+  text-align: center;
+  margin-top: 40px;
+}
+#bigbox2 {
+  text-align: center;
+}
+#box {
+  width: 300px;
+  height: 50px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+#box2 {
+  width: 300px;
+  height: 50px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+#button {
+  text-align: center;
+}
+#signbutton {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
